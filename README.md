@@ -34,6 +34,7 @@ AtliQ Hospitality Analytics — Power BI Dashboard
 5. Tools Used
 
    Microsoft Excel — Data exploration and initial cleaning
+   
    Power BI — Data modeling, DAX measures, and dashboard development
 
 5. Data Model
