@@ -43,8 +43,13 @@ AtliQ Hospitality Analytics — Power BI Dashboard
 6. Key Insights
 
    Mumbai generated the highest revenue among all cities.
+   
    Atliq exotica was the top performing property overall.
+   
    Weekday vs weekend analysis revealed the pricing optimization oppurtunities.
+   
    Direct offline bookings had the highest realisation rate compared to other platforms.
+   
    Several properties showed consistently low occupacy% indicating demand issues
+   
    <img width="1111" height="686" alt="final dashboard" src="https://github.com/user-attachments/assets/8e01f1a3-11c1-4a0f-b447-11982a3bfe9e" />
