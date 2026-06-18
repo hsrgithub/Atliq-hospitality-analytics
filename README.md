@@ -18,14 +18,20 @@ AtliQ Hospitality Analytics — Power BI Dashboard
 3. Key Metrics (KPIs) Tracked
 
    Revenue : Total revenue realized from bookings
+   
    RevPAR  : Revenue Per Available Room
+   
    ADR     : Average Daily Rate
+   
    DSRN    : Daily Sellable Room Nights
+   
    Occupancy %: Percentage of rooms occupied
+   
    Realization Rate: Percentage of successful checkouts vs bookings
+   
    WoW % Change: Week-over-Week performance change for all KPIs
 
-4. Tools Used
+5. Tools Used
 
  Microsoft Excel — Data exploration and initial cleaning
  Power BI — Data modeling, DAX measures, and dashboard development
